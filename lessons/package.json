@@ -1,0 +1,29 @@
+{
+  "name": "fp-rp-lessons",
+  "version": "1.0.0",
+  "description": "Functional Programming and Reactive Programming Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattpodwysocki/jsconf.co-2015-workshop.git"
+  },
+  "keywords": [
+    "FP",
+    "RP",
+    "Reactive",
+    "Functional"
+  ],
+  "author": "Matthew Podwysocki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattpodwysocki/jsconf.co-2015-workshop/issues"
+  },
+  "homepage": "https://github.com/mattpodwysocki/jsconf.co-2015-workshop#readme",
+  "dependencies": {
+    "rx": "^4.0.6",
+    "rx-dom": "^7.0.3"
+  }
+}
